@@ -23,6 +23,7 @@ for i in range(10) :
 
     # if d > D :
     #     D = S_row.rfind('#') + 1
+    
 
 print(A , B)
 print(C , D)
