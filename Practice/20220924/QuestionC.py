@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10**7)
+
 n, x, y = map(int, input().split())
 
 e = [[] for _ in range(200010)]
